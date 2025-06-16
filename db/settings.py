@@ -1,0 +1,10 @@
+# config.py
+
+# API
+API_KEY =
+BASE_URL =
+
+# Neo4j
+NEO4J_URI =
+NEO4J_USER =
+NEO4J_PASSWORD =
