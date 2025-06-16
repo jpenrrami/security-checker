@@ -1,0 +1,6 @@
+neo4j==5.27.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+selenium==4.28.1
+packaging==24.2
+
